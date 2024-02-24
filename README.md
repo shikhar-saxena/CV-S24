@@ -5,3 +5,6 @@
 - [Class-5](17-01.md)
 - [Class-6](24-01.md)
 - [Class-7](27-01.md)
+- [Class-8](03-02.md)
+- [Class-9](07-02.md)
+- [Class-10](14-02.md)
